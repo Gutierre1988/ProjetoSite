@@ -1,0 +1,1 @@
+Esse site tem como finalidade ensinar e inserir o usuário no mundo do xadrez.
